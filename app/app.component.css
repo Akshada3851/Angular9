@@ -1,0 +1,64 @@
+.cls1{
+    height: 250px;
+    border: 1px solid silver;
+}
+   .menu li{
+    display: inline;
+    padding: 6px;
+    margin: 2px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px red;
+   } 
+   .menu li:hover{
+       box-shadow: 1px 2px 2px black;
+   }
+
+.cls2{
+    height: 300px;
+    background-size: 1px solid black;
+}
+.cls3{
+    height: 300px;
+    background-size: 1px solid black;
+    background-color: rgb(240, 191, 185);
+}
+.cls4{
+    height: 300px;
+    background-size: 1px solid black;
+}
+.cls5{
+    height: 305px;
+    background-size: 1px solid black;
+    background-color: rgb(241, 197, 192);
+}
+.cls6{
+    height: 300px;
+    background-size: 1px solid black;
+}
+
+#div2{
+    background-image: url("./../assets/img/bnature1.jpg");
+    background-color: red;
+    background-size: 100%;
+    background-attachment: fixed ;
+}
+#div4{
+    background-image: url("./../assets/img/cnature2.jpg");
+    background-color:blue;
+    background-size: 100%;
+    background-attachment: fixed ;
+}
+#div6{
+    background-image: url("./../assets/img/panda1.jpg");
+    background-color: green;
+    background-size: 100%;
+    background-attachment: fixed ;
+}
+#div1{
+    height: 100px;
+    background-color: rgb(202, 243, 250);
+}
+#div7{
+    height: 100px;
+    background-color: skyblue;
+}
